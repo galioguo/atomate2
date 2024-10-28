@@ -42,3 +42,5 @@ class TaskDocument(StructureMetadata):
 https://github.com/materialsproject/emmet/blob/main/emmet-core/emmet/core/openmm/tasks.py
 This might take a lot of work considering the sheer number of possible lammps outputs there can be. 
 '''
+
+'''I hate this very much!'''
